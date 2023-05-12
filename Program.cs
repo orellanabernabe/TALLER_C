@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int n = 3;
+            int n1 = 34;
+            int s = n + n1;
+
+
+            Console.WriteLine("la suma TOTAL ES ="+ s);
         }
     }
 }
